@@ -1,0 +1,4 @@
+// presetでnext.jsを使用すると記述
+{
+    "presets": ["next/babel"]
+}
